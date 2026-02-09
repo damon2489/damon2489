@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # My Profile
 ### About Me
