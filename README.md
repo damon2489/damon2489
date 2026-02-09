@@ -1,6 +1,7 @@
 
 # My Profile
 ### About Me
+![My cat Figgy](https://github.com/damon2489/damon2489/blob/main/Figgy%20good%20photo.jpg)
 I'm a year 11 student taking Digital Technology at western springs. For sport I do Brazillian JiuJitsu, and in my spare time I enjoy playing video games, board games, going fishing and playing with my cat. My favourite food is probably [Krabby's Crab Boil in Australia](https://www.krabbyscrabboil.com.au/)
 ### Past projects
 
