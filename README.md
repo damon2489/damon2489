@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**damon2489/damon2489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # My Profile
 ### About Me
 I'm a year 11 student taking Digital Technology at western springs. For sport I do Brazillian JiuJitsu, and in my spare time I enjoy playing video games, board games, going fishing and playing with my cat. My favourite food is probably [Krabby's Crab Boil in Australia](https://www.krabbyscrabboil.com.au/)
